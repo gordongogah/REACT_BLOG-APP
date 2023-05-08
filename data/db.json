@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Blog Post",
+      "datetime": "May 07, 2023 12:52:44 AM",
+      "body": "Love is a beautiful thing wow!"
+    },
+    {
+      "id": 2,
+      "title": "My Second Blog Post",
+      "datetime": "July 01, 2023 11:36 AM",
+      "body": "Love is a beautiful thing"
+    },
+    {
+      "id": 3,
+      "title": "My Third Blog Post",
+      "datetime": "May 07, 2023 12:46:12 AM",
+      "body": "Love is a beautiful thing indeed its a good thing and while God is in the love"
+    },
+    {
+      "id": 6,
+      "title": "I love you",
+      "datetime": "May 07, 2023 12:52:13 AM",
+      "body": "I pray God to united us Abigael you are my perfect dream girl how do pray Gods blessing upon us"
+    }
+  ]
+}
